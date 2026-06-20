@@ -154,7 +154,7 @@ void loop()
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Naila Shaheen]**  
 Feel free to connect with me on [LinkedIn](#) or check out more projects on my [GitHub](#).
 
 ---
