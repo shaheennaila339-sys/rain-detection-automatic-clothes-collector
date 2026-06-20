@@ -1,1 +1,0 @@
-# rain-detection-automatic-clothes-collector
